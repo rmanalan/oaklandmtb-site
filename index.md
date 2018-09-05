@@ -10,7 +10,7 @@ partners:
 services:
 - heading: Middle School Team
   description: ''
-  icon: ''
+  icon: "/uploads/2018/09/05/21430132_120021985284720_7417227207569106785_n.png"
 - heading: High School Teams
   description: ''
   icon: ''
