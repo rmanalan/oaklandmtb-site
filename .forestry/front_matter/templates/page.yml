@@ -1,0 +1,9 @@
+---
+label: page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: Title
+  label: Page title
+  name: page_title
