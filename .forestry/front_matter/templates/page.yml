@@ -7,3 +7,7 @@ fields:
   default: Title
   label: Page title
   name: page_title
+- type: text
+  hidden: true
+  label: layout
+  name: home
