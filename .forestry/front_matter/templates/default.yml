@@ -14,11 +14,13 @@ fields:
   description: A short description of the page
   config:
     required: true
-- type: datetime
-  name: publish_date
-  label: Publish Date
+- type: textarea
+  name: body
+  label: Body
   config:
-    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: text
   name: layout
   label: layout
