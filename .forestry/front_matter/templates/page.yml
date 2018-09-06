@@ -10,4 +10,5 @@ fields:
 - type: text
   hidden: true
   label: layout
-  name: home
+  name: layout
+  default: home
